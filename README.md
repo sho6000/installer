@@ -11,7 +11,6 @@ SODA installer project provides easy installation and basic deployment based on 
 
 It is modular and specific project installation information is built based on the installation hooks and related configurations. Basically SODA installer plays a wrapper role to put all together and provide a simple installation for the users and experience overall solution.
 
-Installer project is maintained by SODA Foundation directly.
 
 SODA Installer supports installation of following SODA projects. If you want to install Orchestration, Sushi or Terra with Ceph backend, please use Installer version 1.7.0 or older.
 * Delfin
